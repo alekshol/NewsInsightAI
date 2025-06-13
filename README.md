@@ -16,7 +16,6 @@ Działy analiz i komunikacji muszą na bieżąco monitorować globalne wydarzeni
 - Oszczędność czasu
 - Lepsze raportowanie
 - Automatyczna klasyfikacja branżowa i geograficzna
-- Możliwość generowania raportów PDF
 
 ## 🧠 Wykorzystane narzędzia AI
 
@@ -25,15 +24,12 @@ Działy analiz i komunikacji muszą na bieżąco monitorować globalne wydarzeni
 - **Prompt Engineering**: tłumaczenie, klasyfikacja, analiza skutków
 - **Structured Extraction** (planowane): generowanie raportów
 - **Streamlit**: interfejs aplikacji
-- **FPDF**: generowanie plików PDF (opcjonalnie)
 
 ## ⚙️ Funkcje aplikacji
 
 ✅ Wyszukiwanie wiadomości w czasie rzeczywistym  
 ✅ Tłumaczenie treści na wybrany język (polski, angielski, itd.)  
 ✅ Wyjaśnienie kontekstu i możliwych skutków  
-✅ Filtrowanie według branży (technologia, finanse, zdrowie, energia)  
-✅ Generowanie automatycznych raportów PDF *(beta)*  
 ✅ Gotowa do rozbudowy o alerty mailowe i trend detection
 
 ## ▶️ Jak uruchomić?
